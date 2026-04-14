@@ -1,7 +1,8 @@
 # WalkthoughPLUS-RevitPlugin
 
-featherLITE | Walkthrough PLUS
 Real-Time Design Prototyping for Architects
+
+
 Walkthrough PLUS is a lightweight bridge for Revit 2024 that allows architects to stop "looking at" their designs and start "walking through" them.
 
 While programs like Lumion are built for final high-end renderings, Walkthrough PLUS is built for the design process. It’s a fast, zero-configuration tool for prototyping spatial ideas, checking sightlines, and experiencing scale in real-time.
