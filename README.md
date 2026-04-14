@@ -14,9 +14,11 @@ Fluid Interaction: Use the AirTouch (https://neural-lab.com) gesture system to n
 
 🛠 Specifications
 
+Windows 10/11
+
 Autodesk Revit 2024.1 (Other v2024 versions likely to work, NOT TESTED)
 
-Input: Keyboard/Mouse or AirTouch Gesture Control (Toggle: K-key)
+Input: Keyboard & Mouse and/or AirTouch Gesture Control (Toggle: K-key)
 
 📦 How to Use
 
