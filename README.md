@@ -1,4 +1,4 @@
-# WalkthoughPLUS | RevitPlugin
+# Walkthough PLUS | RevitPlugin
 
 Real-Time Design Prototyping for Architects
 
