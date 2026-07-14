@@ -3,14 +3,18 @@
 Real-Time Design Prototyping for Architects
 
 
-Walkthrough PLUS is a lightweight bridge for Revit 2024 that allows architects to stop "looking at" their designs and start "walking through" them.
+Walkthrough PLUS is a lightweight bridge for Revit 2024 that allows architects to look at and through their designs from an actual interactive human perspective.
 
-While programs like Lumion are built for final high-end renderings, Walkthrough PLUS is built for the design process. It’s a fast, zero-configuration tool for prototyping spatial ideas, checking sightlines, and experiencing scale in real-time.
+While programs like Lumion are built for final high-end renderings, Walkthrough PLUS is built for the design process. It’s a fast, zero-configuration tool that let's you walk through your project like a pedestrian with the click of a button.
+
 
 💡 Why Walkthrough PLUS?
-Instant Prototyping: Skip the hours of "export-import-render." Push one button in Revit and be inside your model in seconds.
 
-Fluid Interaction: Use the AirTouch (https://neural-lab.com) gesture system to navigate your model hands-free—perfect for presenting to clients or "feeling" the space without a keyboard in the way.
+Instant Prototyping: Push one button in Revit and be inside your model in seconds.
+
+Unique Visualization: Few, if any, architecture visualization programs actually let you walk through your designs instead of flying through them.
+
+Fluid Interaction: You have the option to use the AirTouch (https://neural-lab.com) gesture system to navigate your model hands-free. it is perfect for presenting to clients or feeling the space without a keyboard in the way.
 
 🛠 Specifications
 
