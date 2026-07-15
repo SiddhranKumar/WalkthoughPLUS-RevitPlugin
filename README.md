@@ -1,9 +1,9 @@
 # Walkthough PLUS - Revit Plugin
 ### Real-Time Design Prototyping for Architects
 
-
-[![WalkthroughPLUS Demo](https://img.youtube.com/vi/bllzRJEKUpI/maxresdefault.jpg)](https://www.youtube.com/watch?v=bllzRJEKUpI)
-
+<a href="https://www.youtube.com/watch?v=bllzRJEKUpI" target="_blank">
+    <img src="https://img.youtube.com/vi/bllzRJEKUpI/maxresdefault.jpg" alt="Walkthrough Plus Video Demo">
+</a>
 
 Walkthrough PLUS is a lightweight bridge for Revit 2024 that allows architects to look at and through their designs from an actual interactive human perspective.
 
