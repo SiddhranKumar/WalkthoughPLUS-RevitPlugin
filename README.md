@@ -47,7 +47,7 @@ Here is a [slideshow](https://canva.link/5saehpwxk1fq7or) that covers the useful
 
 Here is a flyer as well:
 
-![WalkthroughPLUS Flyer](./resources/WKPlus_Flyer.png)
+![WalkthroughPLUS Flyer](./resources/WKPlus_Flyer_V2.png)
 
 
 
