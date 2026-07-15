@@ -2,6 +2,9 @@
 ### Real-Time Design Prototyping for Architects
 
 
+[![WalkthroughPLUS Demo](https://img.youtube.com/vi/bllzRJEKUpI/maxresdefault.jpg)](https://www.youtube.com/watch?v=bllzRJEKUpI)
+
+
 Walkthrough PLUS is a lightweight bridge for Revit 2024 that allows architects to look at and through their designs from an actual interactive human perspective.
 
 While programs like Lumion are built for final high-end renderings, Walkthrough PLUS is built for the design process. It’s a fast, zero-configuration tool that let's you walk through your project like a pedestrian with the click of a button. 
@@ -33,3 +36,21 @@ Walk: Click the button and follow the on-screen instructions.
 ### ⚖️ License
 Licensed under the MIT License.
 Copyright (c) 2026 featherLITE / Siddhran Kumar
+
+## Questions?
+
+Contact me: siddhranmkumar@gmail.com
+
+# Want more information?
+
+Here is a [slideshow](https://canva.link/5saehpwxk1fq7or) that covers the usefulness of this program.
+
+Here is a flyer as well:
+
+
+
+
+
+
+
+
